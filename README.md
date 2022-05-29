@@ -19,4 +19,5 @@
 <p> profile page</p>
 <div align=center>
         <img src="https://user-images.githubusercontent.com/81251707/170893407-ed4eafdd-946d-4eb9-bed9-41930e6e1469.jpg" alt="home page" height="400" width="200">
+        <img src="https://user-images.githubusercontent.com/81251707/170893408-a428a4e1-7ab3-443f-92f5-0de9ca77ddbe.jpg" alt="home page" height="400" width="200">
 </div>
