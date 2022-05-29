@@ -43,3 +43,20 @@
         <img src="https://user-images.githubusercontent.com/81251707/170893428-3ab93233-cc2a-431d-82df-b418565e5353.jpg" alt="products" height="500" width="200">
         <img src="https://user-images.githubusercontent.com/81251707/170893429-75c6a6e7-825e-4e91-aa50-759f8715df94.jpg" alt="products" height="500" width="200">
 </div>
+
+<p> display product details pagee</p>
+<div align=center>
+        <img src="https://user-images.githubusercontent.com/81251707/170893430-8b358855-82d2-43e5-ab57-1583cbddb446.jpg" alt="display product" height="430" width="200">
+</div>
+
+<p> purchases page</p>
+<div align=center>
+        <img src="https://user-images.githubusercontent.com/81251707/170893468-8b6feaf4-091a-4731-ba35-2a005e9b8351.jpg" alt="purchases page" height="400" width="200">
+        <img src="https://user-images.githubusercontent.com/81251707/170893470-995da7e1-ac8e-48b6-bcd8-c4fe7e1c3d60.jpg" alt="purchases page" height="400" width="200">
+</div>
+
+<p> search product</p>
+<div align=center>
+        <img src="https://user-images.githubusercontent.com/81251707/170893471-d56d5b92-bf06-4a84-baef-63c7fe95de78.jpg" alt="search product" height="400" width="200">
+</div>
+
